@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1.Spring
 
 ### 1.1、简介
@@ -1976,4 +1975,3 @@ dao继承Support类 , 直接利用 getSqlSession() 获得 , 然后直接注入Sq
 ## Spring学习记录
 
 ### 以便以后回顾一下
->>>>>>> spring-tutorial/master
