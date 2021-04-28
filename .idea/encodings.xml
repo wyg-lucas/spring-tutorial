@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-01-IOC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-01-IOC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-02-Hellospring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-02-Hellospring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-03-IOC2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-03-IOC2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-04-DI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-04-DI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-05-Autowired/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-05-Autowired/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-06-Annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-06-Annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-07-Appconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-07-Appconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-08-Proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-08-Proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-09-AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-09-AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-10-Mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-10-Mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-11-Transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-11-Transaction/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

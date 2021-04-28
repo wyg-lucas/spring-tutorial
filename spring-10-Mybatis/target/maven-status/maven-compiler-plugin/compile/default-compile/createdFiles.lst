@@ -1,0 +1,6 @@
+com\lucas\pojo\UserTest.class
+com\lucas\dao\UserMapperImpl.class
+com\lucas\pojo\User$UserBuilder.class
+com\lucas\pojo\User.class
+com\lucas\utils\MybatisUtils.class
+com\lucas\dao\UserMapper.class
