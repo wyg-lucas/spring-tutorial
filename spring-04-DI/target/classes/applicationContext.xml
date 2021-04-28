@@ -5,9 +5,49 @@
        xmlns:c="http://www.springframework.org/schema/c"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
-
+   <bean id="address" class="com.lucas.pojo.Address" p:address="Shanghai University"/>
    <bean id="student" class="com.lucas.pojo.Student" p:name="lucas" p:age="22" />
    <bean id="student2" class="com.lucas.pojo.Student" c:name="lucas2" c:age="23" scope="prototype"/>
-
+   <bean id="student3" class="com.lucas.pojo.Student">
+      <property name="name" value="xiaowang"/>
+      <property name="address" ref="address"/>
+      <property name="age" value="23"/>
+      <property name="books">
+         <array>
+            <value>三体</value>
+            <value>红楼梦</value>
+            <value>水浒传</value>
+         </array>
+      </property>
+      <property name="card">
+         <map>
+            <entry key="身份证" value="1241512515"/>
+            <entry key="校园卡" value="20721629"/>
+         </map>
+      </property>
+      <property name="hobbys">
+         <list>
+            <value>听歌</value>
+            <value>写代码</value>
+         </list>
+      </property>
+      <property name="games">
+         <set>
+            <value>LOL</value>
+            <value>FF14</value>
+         </set>
+      </property>
+      <property name="wife">
+         <null/>
+      </property>
+      <property name="info">
+         <props>
+            <prop key="driver">com.mysql.jdbc.Driver</prop>
+            <prop key="url">localhost://3306</prop>
+            <prop key="username">root</prop>
+            <prop key="password">123456</prop>
+         </props>
+      </property>
+   </bean>
 
 </beans>
