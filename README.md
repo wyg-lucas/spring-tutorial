@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Spring
 
 ### 1.1、简介
@@ -1970,3 +1971,9 @@ dao继承Support类 , 直接利用 getSqlSession() 获得 , 然后直接注入Sq
 - 如果我们不在Spring中去配置声明式事务，我们需要在代码中手动配置事务！
 - 事务在项目开发过程非常重要，涉及到数据的一致性的问题，不容马虎！
 
+=======
+# spring-tutorial
+## Spring学习记录
+
+### 以便以后回顾一下
+>>>>>>> spring-tutorial/master
